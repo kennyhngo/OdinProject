@@ -1,0 +1,25 @@
+/* this is just easy for my eyes */
+
+h1 
+{
+    font-size: 8em;
+    margin: 10px 50px 30px;
+}
+
+h2
+{
+    font-size: 5em;
+    margin: 30px 50px 30px;
+}
+
+p 
+{
+    font-size: 3em;
+    margin: 10px 50px 30px;
+}
+
+a
+{
+    font-size: 2.5em;
+    margin: 10px 50px 10px;
+}
